@@ -92,6 +92,7 @@ const Intro = () => {
                 >
                     <img className="pic" src={Me} alt="Profile Pic" />
                 </motion.div>
+                {/* test */}
             </SubBox>
         </Box>
     )
