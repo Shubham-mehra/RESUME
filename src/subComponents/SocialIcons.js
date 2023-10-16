@@ -36,9 +36,11 @@ const SocialIcons = (props) => {
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1 }}
       >
+        // eslint-disable-next-line 
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel='noopener'
           href={"https://github.com/Shubham-mehra"}
         >
           <Github
@@ -78,6 +80,7 @@ const SocialIcons = (props) => {
           <Facebook
             width={25}
             height={25}
+            
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
           />
         </a>
@@ -90,6 +93,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel='noopener'
           href={"https://youtube.com"}
         >
           {/* <YouTube
