@@ -41,7 +41,7 @@ export const Twitter = (props) => {
         <svg
           aria-hidden="true"
           data-prefix="fab"
-          data-icon="facebook"
+          data-icon="twitter"
           className="prefix__svg-inline--fa prefix__fa-twitter prefix__fa-w-16"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 512 512"
