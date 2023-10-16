@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import React from "react";
-// import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
 import { Facebook, Github } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
@@ -36,7 +35,6 @@ const SocialIcons = (props) => {
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1 }}
       >
-        // eslint-disable-next-line 
         <a
           style={{ color: "inherit" }}
           target="_blank"
