@@ -3,59 +3,59 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Market AI",
+        description:"Created a real-time data analysis tool using React JS, styled-components, and GSAP for dynamic scrolling animations. Integrated data from diverse sources, generated sentiment scores, and visualized company growth.",
+        tags:["react","NEXTJS ","MSSQL"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"",
+        github:""
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Service Market place(One Global)",
+        description:"In collaboration with One Global, I developed a voucher service, creating a marketplace for clients in three categories: Business Clients, Service Providers, and Investors. Challenges included adopting new technologies quickly and managing multiple projects in parallel.",
+        tags:["react","Mongodb", "MERN"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"",
+        github:""
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Virtual Restaurant",
+        description:"Created Recipe Web App for Wix store, enabling users to display recipes on their websites. Highlights: recipe sharing, site customization, custom search criteria. Challenges: MongoDB connection, Mlab to Mongo Atlas migration, user-defined search, social login in comments.",
+        tags:["react","api","Mongodb","MERN"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"",
+        github:""
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Api Integration",
+        description:"This project builds an API to link Zoho CRM with the client's website, enabling data transfer for business management. Clients can track their business and manage their site using this API, despite challenges in CRM-web connection and API integration.",
+        tags:["PHP","HTML","CSS"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"",
+        github:""
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"Hospital Assistant",
+        description:"This project is an app accessible through Google Assistant that enables users to search for drug information and receive it via email. Challenges include app deployment, integration with Google Assistant, Firebase connectivity, and user data management.",
+        tags:["react","nodejs"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"",
+        github:""
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"Inbiot",
+        description:"The project tracks humidity, temperature, and pressure data via a client's machine and API, storing it in a database, and displaying it on a website using amCharts (v5). Users can access environmental data, view graphs, and remotely control the client's machine. Challenges include MongoDB integration, amCharts, and API connection in ReactJS.",
+        tags:["react","react-router","css","MERN"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"",
+        github:""
         
     },
     

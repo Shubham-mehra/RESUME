@@ -143,6 +143,7 @@ const Main = () => {
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
                 <span>Play me </span>
+                <img onClick={()=> handleClick()} src='/image/double-click.gif' alt='welcome'/>
             </Center>
 
             <Contact target="_blank" href="mailto:mehrashubha32@gmail.com">
@@ -191,7 +192,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Work
+                    Projects
                 </motion.h2>
             </WORK>
             <BottomBar>

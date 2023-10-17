@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#circular-favicon {
+  border-radius: 50%; /* Makes the favicon circular */
+  width: 32px; /* Adjust the size as needed */
+  height: 32px;
+}
