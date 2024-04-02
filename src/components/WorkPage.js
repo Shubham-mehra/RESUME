@@ -25,7 +25,7 @@ const Main = styled(motion.ul)`
   position: fixed;
   top: 12rem;
   left: calc(10rem + 15vw);
-  height: 40vh;
+  height: 60vh;
   display: flex;
 
   color: white;

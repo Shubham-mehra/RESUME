@@ -144,8 +144,8 @@ const Main = () => {
         <Center click={click}>
           <OmSvgs
             onClick={() => handleClick()}
-            width={click ? 120 : 200}
-            height={click ? 120 : 200}
+            width={click ? 120 : 150}
+            height={click ? 120 : 150}
             fill="currentColor"
           />
           <span>Play me </span>
